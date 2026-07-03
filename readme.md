@@ -41,7 +41,7 @@ pip install -r requirements.txt
 Run the project:
 
 ```bash
-streamlit run app.py
+streamlit run password.py
 ```
 
 ## Project Structure
@@ -49,14 +49,12 @@ streamlit run app.py
 ```
 Password-Security-Checker/
 │
-├── app.py
-├── README.md
+├── password.py
+├── readme.md
 └── requirements.txt
 ```
 
-## Screenshot
 
-Add a screenshot of your project here.
 
 ## Author
 
